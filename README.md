@@ -1,2 +1,2 @@
-# ab
-a github training
+# gitPractice
+Initial commit on github
